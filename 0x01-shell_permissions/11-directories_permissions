@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R drmxr-xr-x hello
+chmod -R drwxr-xr-x hello
